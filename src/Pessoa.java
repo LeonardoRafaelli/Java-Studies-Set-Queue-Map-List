@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 public class Pessoa implements Comparable{
     private String cpf;
     private String nome;
